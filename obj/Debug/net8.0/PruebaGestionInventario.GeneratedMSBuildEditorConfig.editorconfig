@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PruebaGestionInventario
-build_property.ProjectDir = /home/camper/Documentos/PruebaGestionInventario/
+build_property.ProjectDir = /home/camper/Escritorio/PruebaGestionInventario-1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
