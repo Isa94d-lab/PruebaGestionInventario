@@ -1,0 +1,14 @@
+/home/camper/Documentos/PruebaGestionInventario/bin/Debug/net8.0/PruebaGestionInventario
+/home/camper/Documentos/PruebaGestionInventario/bin/Debug/net8.0/PruebaGestionInventario.deps.json
+/home/camper/Documentos/PruebaGestionInventario/bin/Debug/net8.0/PruebaGestionInventario.runtimeconfig.json
+/home/camper/Documentos/PruebaGestionInventario/bin/Debug/net8.0/PruebaGestionInventario.dll
+/home/camper/Documentos/PruebaGestionInventario/bin/Debug/net8.0/PruebaGestionInventario.pdb
+/home/camper/Documentos/PruebaGestionInventario/obj/Debug/net8.0/PruebaGestionInventario.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/Documentos/PruebaGestionInventario/obj/Debug/net8.0/PruebaGestionInventario.AssemblyInfoInputs.cache
+/home/camper/Documentos/PruebaGestionInventario/obj/Debug/net8.0/PruebaGestionInventario.AssemblyInfo.cs
+/home/camper/Documentos/PruebaGestionInventario/obj/Debug/net8.0/PruebaGestionInventario.csproj.CoreCompileInputs.cache
+/home/camper/Documentos/PruebaGestionInventario/obj/Debug/net8.0/PruebaGestionInventario.dll
+/home/camper/Documentos/PruebaGestionInventario/obj/Debug/net8.0/refint/PruebaGestionInventario.dll
+/home/camper/Documentos/PruebaGestionInventario/obj/Debug/net8.0/PruebaGestionInventario.pdb
+/home/camper/Documentos/PruebaGestionInventario/obj/Debug/net8.0/PruebaGestionInventario.genruntimeconfig.cache
+/home/camper/Documentos/PruebaGestionInventario/obj/Debug/net8.0/ref/PruebaGestionInventario.dll
